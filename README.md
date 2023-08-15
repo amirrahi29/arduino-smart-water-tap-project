@@ -1,5 +1,8 @@
 # arduino-smart-water-tap-project
 arduino-smart-water-tap-project
 
-Uploading 6cb18253-6970-4a0d-940d-5b2611ced1c8.mp4…
+
+
+
+https://github.com/amirrahi29/arduino-smart-water-tap-project/assets/107117774/61e5809b-70d6-4c30-82e6-52d8469158e3
 
